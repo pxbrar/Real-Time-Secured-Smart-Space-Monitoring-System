@@ -28,3 +28,10 @@ This project utilizes cloud technologies and IoT devices to monitor and manage r
 - **Flutter:** Used for creating the mobile application interface.
 - **FreeRTOS:** Manages real-time operations and task segregation.
 - **Machine Learning:** Implements linear regression and multiple linear regression for data analysis.
+
+## Additional Information
+
+Here is an image illustrating the system:
+
+![System Overview](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Picture1.png)
+
