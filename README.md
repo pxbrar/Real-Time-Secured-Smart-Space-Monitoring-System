@@ -29,9 +29,28 @@ This project utilizes cloud technologies and IoT devices to monitor and manage r
 - **FreeRTOS:** Manages real-time operations and task segregation.
 - **Machine Learning:** Implements linear regression and multiple linear regression for data analysis.
 
-## Additional Information
+## Hardware System Overview
 
 Here is an image illustrating the system:
 
-![System Overview](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Picture1.png)
+![System Overview](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Images/Picture1.png)
+
+## 3D Model 
+
+Here is an image illustrating the 3D cast model:
+
+![3D Model](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Images/Picture2.png)
+
+## Arduino Dashboard
+
+Here is an image illustrating the Arduino Dashboard:
+
+![Dashboard](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Images/Picture3.png)
+
+## Flutter App
+
+Here are images illustrating the Flutter App:
+
+![Flutter App](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Images/Picture4.png)
+![Flutter App](https://github.com/pxbrar/Real-Time-Secured-Smart-Space-Monitoring-System/blob/main/Images/Picture5.png)
 
